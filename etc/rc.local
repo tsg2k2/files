@@ -1,0 +1,6 @@
+#!/bin/ash -e
+
+/lib/rtl/init.sh &
+/lib/aqr/init.sh &
+
+exit 0

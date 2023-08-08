@@ -2,5 +2,6 @@
 
 /lib/rtl/init.sh &
 /lib/aqr/init.sh &
+/lib/mmc/init.sh &
 
 exit 0
